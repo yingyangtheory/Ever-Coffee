@@ -1,0 +1,14 @@
+.learn-more-button {
+  color: #fff;
+  text-align: center;
+  background-color: #422204;
+  border: none;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: Poppins, Arial;
+  font-size: 1.063rem;
+  font-weight: 600;
+  line-height: 26px;
+  display: flex;
+}
